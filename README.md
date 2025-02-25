@@ -2,6 +2,13 @@
 
 Tremor Check is an iOS application that I made for my Swift Student Challenge 2025 submission. The app is designed to help assess and monitor Parkinon's tremors through voice analysis and finger stability tests. The app provides a comprehensive suite of tools for tracking and analyzing tremor symptoms using modern iOS technologies.
 
+## Screenshots
+
+![Simulator Screenshot - iPad Pro 11-inch (M4) - 2025-02-21 at 12 00 12](https://github.com/user-attachments/assets/c7d4ea39-6219-4917-a27e-7432d1d34933)
+![Simulator Screenshot - iPad Pro 11-inch (M4) - 2025-02-21 at 11 59 45](https://github.com/user-attachments/assets/ffc6eb80-7715-4c08-8a00-df44e8636948)
+![Simulator Screenshot - iPad Pro 11-inch (M4) - 2025-02-21 at 11 59 40](https://github.com/user-attachments/assets/81e827df-73f8-4ac1-b7aa-2b2db192839b)
+
+
 ## Features
 
 ### 1. Voice Assessment
